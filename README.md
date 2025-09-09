@@ -41,3 +41,9 @@ Copie e cole no formato abaixo:
 
 **Nome:** luna e nicoly maria
 **GitHub:** https://github.com/nickmenezes/prova-global-
+
+---
+
+**Nome:** Douglas e Rychard
+**GitHub:** https://github.com/rychard098/provaglobal201/blob/main/README.md
+
