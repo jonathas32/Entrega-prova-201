@@ -37,3 +37,7 @@ Copie e cole no formato abaixo:
 **Nome:** ANA LUIZA E JOSUE HENRIQUE 
 **GitHub:**https://github.com/josu157/Prova-global/blob/main/README.md
 
+---
+
+**Nome:** luna e nicoly maria
+**GitHub:** https://github.com/nickmenezes/prova-global-
