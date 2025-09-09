@@ -30,7 +30,7 @@ Copie e cole no formato abaixo:
 ---
 
 **Nome:** GAbriel Filyp e Isabelly
-**GitHub:** https://github.com/GabrielFilyp/Exerc-cio-de-HTML5
+**GitHub:** https://github.com/GabrielFilyp/Prova-Global/blob/main/index.html
 
 ---
 
