@@ -1,4 +1,4 @@
-# 📥 Entregas - Exercício HTML Semântico
+# 📥 Entregas - Prova global
 
 Olá, alunos! 👋  
 Coloquem aqui abaixo o **link do repositório de vocês** com a atividade pronta.
