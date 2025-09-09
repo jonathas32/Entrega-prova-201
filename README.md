@@ -24,8 +24,8 @@ Copie e cole no formato abaixo:
 
 ---
 
-**Nome:** Emanuelly
-**GitHub:** https://github.com/manugatosdevo/Primeiro-projeto/blob/master/index.html
+**Nome:** Emanuelly, Tayssa e Thallita
+**GitHub:** https://github.com/manugatosdevo/html-exercicio-2/blob/main/index.html
 
 ---
 
