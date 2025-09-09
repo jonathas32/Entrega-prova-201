@@ -19,8 +19,8 @@ Copie e cole no formato abaixo:
 
 ---
 
-**Nome:** Gabriel Cruz
-**GitHub:** https://github.com/Gepeto221/AtividadeSS
+**Nome:** Gabriel Cruz e João Vitor 
+**GitHub:** https://github.com/jhonaaas6477/Prova-Global-Web-
 
 ---
 
