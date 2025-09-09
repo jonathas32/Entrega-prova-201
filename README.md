@@ -14,8 +14,8 @@ Copie e cole no formato abaixo:
 
 ---
 
-**Nome:** Samuel
-**GitHub:** https://github.com/SamuelC-2008/Primeiro-projeto
+**Nome:** Samuel e Miguel
+**GitHub:** https://github.com/SamuelC-2008/Prova-global-201/blob/main/README.md
 
 ---
 
